@@ -1,5 +1,3 @@
-<div align="center">
- 
 ## Hi there 👋, my name is Luca Gennaro
 
 <img src="https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/gif.webp" width="300px"/>
@@ -12,5 +10,3 @@ Computer and Technology enthusiast. I'm learning to become a **Full stack Develo
 
 <a href="https://www.linkedin.com/in/luca-gennaro/"><img src="https://raw.githubusercontent.com/luca-gennaro/luca-gennaro/main/images/linkedin.svg" width="21px"/>
  My Linkedin Profile</a>
- 
-</div>
